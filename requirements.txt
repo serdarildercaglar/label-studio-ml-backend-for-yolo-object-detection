@@ -1,0 +1,8 @@
+label-studio-ml==1.0.9
+ultralytics==8.2.45
+flask
+redis==5.0.7
+rq==1.16.2
+# git+https://github.com/THU-MIG/yolov10.git ## ultralytics 8.2.31
+transformers
+label-studio-sdk==1.0.3
